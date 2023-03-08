@@ -33,5 +33,5 @@ https://d1wqtxts1xzle7.cloudfront.net/30322782/Going_for_Gold-An_Olympic_Investm
 
 Uses word_finder.py to find the words over a given day.
 
-ssh s4568966@karora.let.rug.nl 'zless ../../net/corpora/twitter2/Tweets/2012/08/20120806:*.ou
-t.gz | ../../net/corpora/twitter2/tools/tweet2tab -i date text' | py word_finder.py
+
+ssh s4568966@karora.let.rug.nl 'zless ../../net/corpora/twitter2/Tweets/2012/08/201208{08..11}:10.out.gz | ../../net/corpora/twitter2/tools/tweet2tab -i date text' | py word_finder.py
