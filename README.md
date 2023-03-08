@@ -4,20 +4,20 @@ Research Methods
 ## Do The Olympic Games raise or decrease the usage of the words gold, silver and bronze?
 
 Summer Olympics
-*Dates London Olympics 2012
-*27 July to 12 August 2012 
-*Date Rio Olympics 2016
-*August 5–21, 2016
-*Date Tokyo olympics 2020
-*23 July to 8 August 2021.
+* Dates London Olympics 2012
+* 27 July to 12 August 2012 
+* Date Rio Olympics 2016
+* August 5–21, 2016
+* Date Tokyo olympics 2020
+* 23 July to 8 August 2021.
 
 Winter Olympics
-*Dates Vancouver Olympics 2010
-*Friday, 12 February - Sunday, 28 February
-*Dates Sochi Olympics 2014
-*Friday, 7 February - Sunday, 23 February
-*Dates PyeongChang Olympics 2018
-*9 February 2018 -	25 February 2018
+* Dates Vancouver Olympics 2010
+* Friday, 12 February - Sunday, 28 February
+* Dates Sochi Olympics 2014
+* Friday, 7 February - Sunday, 23 February
+* Dates PyeongChang Olympics 2018
+* 9 February 2018 -	25 February 2018
 
 
 
