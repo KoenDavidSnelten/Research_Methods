@@ -29,3 +29,9 @@ https://www.researchgate.net/profile/Lyman-Mlambo/publication/233359829_Estimati
 
 https://d1wqtxts1xzle7.cloudfront.net/30322782/Going_for_Gold-An_Olympic_Investment-libre.pdf?1390884172=&response-content-disposition=inline%3B+filename%3DGoing_for_Gold_An_Olympic_Investment.pdf&Expires=1678282099&Signature=bdr8j3CnHm0e5wV9dliULatE8wUWW2xewM22XoyZYsl8ReCZ38IehBgTs-hx9wK4pXbC0bL0yfUrLQlpaG9cnazUK9-4KbcjTMxBMGqIsKSXbTad80vaHEqy5yfEnGXjNMuCwjGCETkKZQG4JBby9Rhud4qSrrP87aEAtylfEM3gsWNyBRJ-AZsCBMROfAe3W0W7wujAt2pR1OOMq~bWdweIVKeCNRyWSJVq0b5XbPWk-rT2EMWJVGEn9u~E8T2E6Cx2KMAn9iivaRc0toYK9NO~vdOaEUinNqAYvn8dMPooe~7NJdAnnyaa3AZM-2KYoUWaUWHYAb~Q1M0KrAfwew__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
 
+### Commands used:
+
+Uses word_finder.py to find the words over a given day.
+
+ssh s4568966@karora.let.rug.nl 'zless ../../net/corpora/twitter2/Tweets/2012/08/20120806:*.ou
+t.gz | ../../net/corpora/twitter2/tools/tweet2tab -i date text' | py word_finder.py
