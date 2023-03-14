@@ -3,6 +3,12 @@ Research Methods
 
 ## Do The Olympic Games raise or decrease the usage of the words gold, silver and bronze?
 
+I will research if the usage of the words gold, silver and bronze or decreases during the olympic games.
+This can then be used for targeted adveritesment for precious metal exchanges or other buisnesses.
+
+
+
+The dates used:
 Summer Olympics
 * Dates London Olympics 2012
 * 27 July to 12 August 2012 
@@ -12,8 +18,6 @@ Summer Olympics
 * 23 July to 8 August 2021.
 
 Winter Olympics
-* Dates Vancouver Olympics 2010
-* Friday, 12 February - Sunday, 28 February
 * Dates Sochi Olympics 2014
 * Friday, 7 February - Sunday, 23 February
 * Dates PyeongChang Olympics 2018
