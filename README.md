@@ -38,9 +38,11 @@ https://link.springer.com/chapter/10.1057/978-1-137-52386-0_8
 
 ### Commands used:
 
-
-
 Uses word_finder.py to find the words over a given day.
 
-
+This is an example, change the s-number to your own.
 ssh s4568966@karora.let.rug.nl 'zless ../../net/corpora/twitter2/Tweets/2012/{07/201207{29..31},08/201208{01..03}}:10.out.gz | ../../net/corpora/twitter2/tools/tweet2tab -i date text' | py word_finder.py
+You then need to fill in your password.
+An then fill in your MFA.
+
+The other commands can be viewed in the excel file.
