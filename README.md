@@ -32,17 +32,16 @@ I think the usage of the words gold, silver and bronze will increase during the 
 
 https://www-tandfonline-com.proxy-ub.rug.nl/doi/full/10.1080/16184742.2020.1725091
 
-
 https://link.springer.com/chapter/10.1057/978-1-137-52386-0_8
 
+### How to repeat research:
 
-### Commands used:
-
-Uses word_finder.py to find the words over a given day.
-
-This is an example, change the s-number to your own.
+1. Download this github repository
+2. Open the .xlsx file, this file containes the result and the commands used to get the data.
+3. An example of the command (This commands connects you to the karora server and gets the tweets as text input for the word_finder.py file): 
 ssh s4568966@karora.let.rug.nl 'zless ../../net/corpora/twitter2/Tweets/2012/{07/201207{29..31},08/201208{01..03}}:10.out.gz | ../../net/corpora/twitter2/tools/tweet2tab -i date text' | py word_finder.py
-You then need to fill in your password.
-An then fill in your MFA.
+4. When you enter this command you need to change the s nummer to your own.
+5. You then need to fill in your password.
+6. An then fill in your MFA.
+7. Wait untill you see the results, this can take up more than an hour.
 
-The other commands can be viewed in the excel file.
